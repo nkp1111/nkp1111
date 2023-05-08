@@ -37,3 +37,18 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nkp1111&show_icons=true&locale=en" alt="nkp1111" /></p>
 
+# My-freeCodeCamp-Certificate
+
+| Specialization  | Language/Packages | Certificate |
+| --- | --- | --- |
+| Responsive Web Design | HTML,CSS | https://www.freecodecamp.org/certification/fcc97451815-7b8a-4d47-a632-5c834df84ec6/responsive-web-design |
+| JavaScript Algorithms and Data Structures Certification | JavaScript | https://www.freecodecamp.org/certification/fcc97451815-7b8a-4d47-a632-5c834df84ec6/javascript-algorithms-and-data-structures |
+| Front End Development Libraries Certification | React, Bootstrap | https://www.freecodecamp.org/certification/fcc97451815-7b8a-4d47-a632-5c834df84ec6/front-end-development-libraries |
+| Data Visualization Certification | D3.js | https://www.freecodecamp.org/certification/fcc97451815-7b8a-4d47-a632-5c834df84ec6/data-visualization |
+| Back End Development and APIs Certification | Node, Mongo, Express, Mongoose | https://www.freecodecamp.org/certification/fcc97451815-7b8a-4d47-a632-5c834df84ec6/back-end-development-and-apis |
+| Quality Assurance Certification | Node, Express, Chai.js | https://www.freecodecamp.org/certification/fcc97451815-7b8a-4d47-a632-5c834df84ec6/quality-assurance-v7 |
+| Scientific Computing with Python Certification | Python | https://www.freecodecamp.org/certification/fcc97451815-7b8a-4d47-a632-5c834df84ec6/scientific-computing-with-python-v7 |
+| Data Analysis with Python Certification | Pandas, Numpy | https://www.freecodecamp.org/certification/fcc97451815-7b8a-4d47-a632-5c834df84ec6/data-analysis-with-python-v7 |
+| Machine Learning with Python Certification | Tensorflow, Sklearn | https://www.freecodecamp.org/certification/fcc97451815-7b8a-4d47-a632-5c834df84ec6/machine-learning-with-python-v7 |
+| Relational Database Certification | PostgreSQL, Git, Bash commands | https://www.freecodecamp.org/certification/fcc97451815-7b8a-4d47-a632-5c834df84ec6/relational-database-v8 |
+
