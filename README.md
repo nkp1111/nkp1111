@@ -31,10 +31,13 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nkp1111&show_icons=true&locale=en&layout=compact" alt="nkp1111" /></p>
+<h3 align="left">GitHub Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nkp1111&show_icons=true&locale=en" alt="nkp1111" /></p>
- -->
+![](https://github-readme-stats.vercel.app/api?username=nkp1111&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nkp1111&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nkp1111&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 # My-freeCodeCamp-Certificate
 
 | Specialization  | Language/Packages | Certificate |
