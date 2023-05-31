@@ -38,7 +38,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nkp1111&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-# My-freeCodeCamp-Certificate
+<!-- # My-freeCodeCamp-Certificate
 
 | Specialization  | Language/Packages | Certificate |
 | --- | --- | --- |
@@ -53,3 +53,4 @@
 | Machine Learning with Python Certification | Tensorflow, Sklearn | https://www.freecodecamp.org/certification/fcc97451815-7b8a-4d47-a632-5c834df84ec6/machine-learning-with-python-v7 |
 | Relational Database Certification | PostgreSQL, Git, Bash commands | https://www.freecodecamp.org/certification/fcc97451815-7b8a-4d47-a632-5c834df84ec6/relational-database-v8 |
 
+ -->
