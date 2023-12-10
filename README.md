@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **neerajp4321@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-teal-six-33.vercel.app/](https://portfolio-teal-six-33.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://next-projects-puce.vercel.app/](https://next-projects-puce.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
