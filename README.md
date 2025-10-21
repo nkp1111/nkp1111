@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neeraj Parmar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate backend developer from India</h3>
 
-- 💬 Ask me about **react, express**
+- 💬 Ask me about **Node.js**, **React.js**
 
 - 📫 How to reach me **neerajp4321@gmail.com**
 
