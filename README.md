@@ -7,7 +7,7 @@
 Building scalable microservices, distributed queue architectures, and high-performance backend systems.
 
 <p align="center">
-  <a href="https://portfolio-teal-six-33.vercel.app/" target="_blank">
+  <a href="https://next-projects-puce.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="neeraj_cv_2026.pdf" target="_blank">
